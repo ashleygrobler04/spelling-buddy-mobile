@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "spelling-buddy-mobile",
+    "slug": "spelling-buddy-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "spelling-buddy-mobile"
+}
